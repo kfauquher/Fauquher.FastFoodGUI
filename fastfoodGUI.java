@@ -1,7 +1,5 @@
 //Author Name: Kylie Fauquher
 //Date: 02/27/2022
-//Program Name: Fauquher_FastFoodGUI
-//Purpose: Online menu for ordering food, adding up total, and printing the receipt
 
 package fastfood;
 
